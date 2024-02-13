@@ -1,0 +1,13 @@
+.hide-mobile {
+    display: none;
+}
+
+body {
+    background-color: #FFFBF3;
+    margin: 0;
+    font-family: 'Inter';
+}
+
+.wrap {
+    margin: 2em;
+}
